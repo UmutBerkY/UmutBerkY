@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
 <h2 align="center">3/4 Computer Engineering Student</h2>
-<h3 align="center">Mobile and AI programmer</h3>
 
 - 🔭 I’m currently working on **Application to Measure Brain Fatigue from Eye Movements (AI + Mobile)**
 
