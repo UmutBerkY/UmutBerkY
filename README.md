@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
-<h2 align="center">3/4 Computer Engineering Student</h2>
-
-- 🔭 I’m currently working on **Application to Measure Brain Fatigue from Eye Movements (AI + Mobile)**
-
-- 🌱 I’m currently learning **Java,Flutter,Kotlin,Firebase**
+<h2 align="center">4/4 Computer Engineering Student</h2>
 
 - 📫 How to reach me **umutb940@gmail.com**
 
