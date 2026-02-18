@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umut</h1>
-<h2 align="center">4/4 Computer Engineering Student</h2>
+<h2 align="center">Computer Engineering Student</h2>
 
 - 📫 How to reach me **umutb940@gmail.com**
 
